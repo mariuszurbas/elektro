@@ -1,0 +1,132 @@
+body
+{
+	background-color: #90CBF5;
+	font-family: 'Source sans pro', sans-serif;
+}
+
+#container
+{
+	width: 1200px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+#tytul
+{
+	height: 250px;
+	background-image: url("electriccar.png"), url("droga.jpg");
+	background-position: center bottom, left top;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+#menu
+{
+	background-color: #EB773D;
+	color: #FFFFFF;
+	
+	padding: 9px;
+}
+
+#motto
+{
+	background-color: #56D134;
+	padding: 10px;
+	color: #ffffff;
+}
+
+#sidemenu
+{
+	float: left;
+	width: 180px;
+	min-height: 700px;
+	padding: 20px;
+	background-color: #6B96DB;
+	text-align: center;
+	font-size: 18px;
+}
+
+#mainphoto
+{
+	float: left;
+	width: 400px;
+	margin: 20px;
+	
+}
+
+#content
+{
+	float: left;
+	padding: 40px;
+	width: 900px;
+	background-color: #D9ADAD;
+	min-height: 660px;
+	text-align: justify;
+}
+
+#footer
+{
+	clear: both;
+	background-color: lightgray;
+	text-align: center;
+	min-height: 40px;
+	padding: 20px;
+}
+
+.option
+{
+	float: left;
+	font-size: 18px;
+	padding: 9px;
+	min-width: 179px;
+	text-align: center;
+}
+
+.option:hover
+{
+	background-color: #AD3C03;
+	cursor: pointer;
+}
+
+.font1
+{
+	font-style: italic;
+	font-size: 18px;
+}
+
+.optionL
+{
+	height: 65px;
+	padding: 5px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.optionL:hover
+{
+	background-color: #0B5F8A;
+	color: white;
+	cursor: pointer;
+}
+
+.left
+{
+	float: left;
+	background-color: #E0E0E0;
+	padding: 5px;
+	margin: 10px;
+}
+img
+{
+	width: 400px;
+}
+figcaption
+{
+	text-align: center;
+}
+
+
+ 
+
